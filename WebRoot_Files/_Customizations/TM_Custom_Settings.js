@@ -1,1 +1,1 @@
-﻿TM.tmVersion			= TM.tmVersion + " (UseCase_Javascript_Customization)";
+﻿TM.tmVersion			= TM.tmVersion + " (UseCase_CSharp_Customization)";

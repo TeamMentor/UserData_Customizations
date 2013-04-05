@@ -1,0 +1,10 @@
+"Configuring Google Analytics (from FirstScriptToInvoke)".info();
+var googleAnalytics 	  	        =  GoogleAnalytics.Current;
+googleAnalytics.AccountID   	    = "UA-37594728-3";			
+googleAnalytics.Enabled	  	        = true;
+googleAnalytics.LogWebServicesCalls = true;
+
+return "OK";
+
+//using TeamMentor.CoreLib;
+//O2Ref:TeamMentor.CoreLib.dll
