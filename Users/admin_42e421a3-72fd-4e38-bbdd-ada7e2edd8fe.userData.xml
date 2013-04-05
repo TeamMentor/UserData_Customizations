@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TMUser ID="42e421a3-72fd-4e38-bbdd-ada7e2edd8fe" UserID="1906252317" UserName="admin" FirstName="FName" LastName="LName" Title="El Title" Company="The Company" EMail="dcruz@securityinnovation.com" Country="The Country" State="The State" GroupID="1">
+  <SecretData PasswordHash="kfEWlGctBmblzZApqkisR/xBpzvE5HAAkbHqrvg2HNWZ8VCRFSqNlqn2A+DOmyc9zDVH+oTs+ZFS0kd9XMzYIQ==" SessionID="00000000-0000-0000-0000-000000000000" />
+  <AccountStatus ExpirationDate="0001-01-01T00:00:00" PasswordExpired="false" UserEnabled="true" />
+  <Stats CreationDate="2013-04-05T07:10:13.4124246+01:00" LastLogin="0001-01-01T00:00:00" LoginOk="0" LoginFail="0" />
+</TMUser>
