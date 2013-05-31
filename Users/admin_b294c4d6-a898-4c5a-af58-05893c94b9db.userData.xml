@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TMUser ID="b294c4d6-a898-4c5a-af58-05893c94b9db" UserID="2140544268" UserName="admin" FirstName="FName" LastName="LName" Title="El Title" Company="The Company" EMail="TM_alerts@securityinnovation.com" Country="The Country" State="The State" GroupID="1">
+  <SecretData PasswordHash="6CPy/AkMHapjvLIaAxRrQoswt5MXYbTUElRiLyn6URUMvzFbkeNXIZZJeeRGIOwt+2uO25qwN5YxlzbFPbpe7w==" SessionID="00000000-0000-0000-0000-000000000000" />
+  <AccountStatus ExpirationDate="2013-06-15T16:36:13.7275723+01:00" PasswordExpired="false" UserEnabled="true" />
+  <Stats CreationDate="2013-05-31T16:36:13.7285723+01:00" />
+</TMUser>
